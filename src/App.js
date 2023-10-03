@@ -1,9 +1,9 @@
-import Counter from "./feature/counter/Counter";
+import Posts from "./feature/post/Posts";
 
 export default function App() {
   return (
     <div className="App">
-      <Counter />
+      <Posts />
     </div>
   );
 }
